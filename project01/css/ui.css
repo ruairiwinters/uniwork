@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+}
+#ticketheading{
+    text-align:left; 
+    margin-top: 35px; 
+    margin-bottom:0px;
+}
+#customerheading{
+    text-align:left; 
+    margin-top: 35px; 
+    margin-bottom:0px;
+}
+#fb1, #fb2, #fb3, #fb4, #fb5, #fb6, #fb7, #fb8, #fb9, #fb10, #fb11{
+    margin-bottom:30px;
+}
+
+.changebk{
+	background:#ddd;
+	margin-bottom: 20px;
+}
+
+.changebk2{
+	background:red;
+}
+
+
+
