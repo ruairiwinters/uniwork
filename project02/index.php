@@ -29,7 +29,7 @@ if (isset($_SESSION["userid_40206636"])) {
         <link rel="stylesheet" type="text/css" href="https://rawgit.com/outboxcraft/beauter/master/beauter.min.css"/>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
 
-        <title>Bel-Festival</title>
+        <title>Belfast Festival</title>
     </head>
     <body>
         <nav>
